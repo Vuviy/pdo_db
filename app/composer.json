@@ -1,8 +1,11 @@
 {
   "name": "vuviy/pdo_db",
   "description": "pdo_db",
-  "require": {
 
+
+  "require": {
+    "php": "^8.3",
+    "ext-pdo": "*"
   },
   "autoload": {
     "psr-4": {
